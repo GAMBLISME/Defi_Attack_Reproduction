@@ -1,0 +1,15 @@
+{
+  "name": "defihacklabs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.4"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.10",
+    "dotenv": "^16.4.5",
+    "hardhat-tracer": "^1.1.1"
+  }
+}
